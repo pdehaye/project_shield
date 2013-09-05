@@ -1,0 +1,3 @@
+[submodule "protected"]
+	path = protected
+	url = https://github.com/pdehaye/project_with_sensitive_data.git
